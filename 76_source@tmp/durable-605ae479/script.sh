@@ -1,1 +1,0 @@
-git add -A; git commit -m "Export. Build :76"; git push -u origin master
